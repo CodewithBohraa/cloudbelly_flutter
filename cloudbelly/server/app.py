@@ -13,7 +13,6 @@ app.secret_key = '2345dtgbewr25678'
 app.config['UPLOAD_FOLDER'] = os.path.join(app.static_folder, 'uploads')
 app.config['ALLOWED_EXTENSIONS'] = {'png', 'jpg', 'jpeg', 'gif'}
 
-
 def reverse_geocode(latitude, longitude):
     access_key = 'e2a74de4e6c1558dee65c3576a097093'  # Your Positionstack API key
     url = 'http://api.positionstack.com/v1/reverse'
