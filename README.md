@@ -135,13 +135,11 @@ Please ensure code follows existing style conventions.
 
 ## 📜 License
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**
 
 ---
 
 ## 🧑‍💼 About Us
-
-**CloudBelly** was founded by **Aniket Kumar Singh (Co-Founder)** and team with the vision to revolutionize the food ecosystem through technology and sustainability.
 
 > “Empowering kitchens, connecting farms, and delighting consumers — one meal at a time.”
 
