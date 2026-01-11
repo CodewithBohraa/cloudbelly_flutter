@@ -150,7 +150,7 @@ This project is licensed under the **MIT License**
 - 🌍 Website: [Coming Soon]  
 - 💼 LinkedIn: [@CloudBelly](https://linkedin.com) *(replace with actual)*  
 - ✉️ Email: contact@cloudbelly.in  
-- 🧑‍💻 GitHub: [codewithmeeeeh](https://github.com/codewithmeeeeh)
+- 🧑‍💻 GitHub: [CodewithBohra](https://github.com/CodewithBohraa)
 
 ---
 
